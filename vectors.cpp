@@ -1,11 +1,11 @@
 //sets 
-//each operation takes logn time
-//elements are stored in a sorted order so need of sort operation
+//each operation takes O(logn) time
+//elements are stored in a sorted order in set so need of sort operation
 
 
 #include <iostream>
 #include<algorithm>
-#include<vector>
+#include<set>
 using namespace std;
 
 int main()
